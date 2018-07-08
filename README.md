@@ -8,16 +8,16 @@ popular article authors of all time, eventually it provides the percentage of th
   1. Install VirtualBox from https://www.virtualbox.org/wiki/Download_Old_Builds_5_1
   2. Install Vagrant from https://www.vagrantup.com/downloads.html
   3. Download the VM configuration from https://s3.amazonaws.com/video.udacity-data.com/topher/2018/April/5acfbfa3_fsnd-virtual-machine/fsnd-virtual-machine.zip
-  4. use your terminal and go to the directory called vagrant using "cd"
-  5. Start the virtual machine using "vagrant up" command
-  6. you can run "vagrant ssh" to log in to your newly installed Linux VM
+  4. use your terminal and go to the directory called vagrant using `cd`
+  5. Start the virtual machine using `vagrant up` command
+  6. you can run `vagrant ssh` to log in to your newly installed Linux VM
 
 
 ## Download the data
   1. you need to Download the data from https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
-  2. To load the data, "cd" into the vagrant directory and use the command "psql -d news -f newsdata.sql"
+  2. To load the data, `cd` into the vagrant directory and use the command `psql -d news -f newsdata.sql`
 
 
 ## run
   1. put the news.py file inside the vagrant file 
-  2. run the news.py file using "python news.py" in your terminal
+  2. run the news.py file using `python news.py` in your terminal
