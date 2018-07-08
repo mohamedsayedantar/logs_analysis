@@ -1,0 +1,13 @@
+the_most_popular_three_articles_of_all_time
+candidate-is-jerk -- 338647 views
+bears-love-berries -- 253801 views
+bad-things-gone -- 170098 views
+
+the_most_popular_article_authors_of_all_time
+Ursula La Multa -- 507594 views
+Rudolf von Treppenwitz -- 423457 views
+Anonymous Contributor -- 170098 views
+Markoff Chaney -- 84557 views
+
+the_percentage_of_error_requests_per_day
+2016-07-17 -- 2% error
