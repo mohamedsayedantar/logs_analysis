@@ -11,6 +11,13 @@ popular article authors of all time, eventually it provides the percentage of th
   4. use your terminal and go to the directory called vagrant using "cd"
   5. Start the virtual machine using "vagrant up" command
   6. you can run "vagrant ssh" to log in to your newly installed Linux VM
-  7. then you need to Download the data from https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
-  8. To load the data, "cd" into the vagrant directory and use the command "psql -d news -f newsdata.sql"
-  9. put the news.py file inside the vagrant file and the run "python news.py" in your terminal
+
+
+## Download the data
+  1. you need to Download the data from https://d17h27t6h515a5.cloudfront.net/topher/2016/August/57b5f748_newsdata/newsdata.zip
+  2. To load the data, "cd" into the vagrant directory and use the command "psql -d news -f newsdata.sql"
+
+
+## run
+  1. put the news.py file inside the vagrant file 
+  2. run the news.py file using "python news.py" in your terminal
